@@ -1,5 +1,5 @@
 ## 📊 So sánh ARCH và GARCH trong Phân tích Chuỗi Thời gian
-👋 Giới thiệu
+#👋 Giới thiệu
 Trong lĩnh vực tài chính, chuỗi thời gian thường thể hiện hiện tượng biến động cụm (volatility clustering):
 Khi thị trường biến động mạnh thì các giai đoạn sau thường tiếp tục biến động mạnh.
 Khi thị trường ổn định thì biến động nhỏ thường kéo dài.
