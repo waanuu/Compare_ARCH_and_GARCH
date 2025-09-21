@@ -45,7 +45,7 @@ Phương sai có điều kiện phụ thuộc vào nhiễu quá khứ + phương
 Hiệu quả hơn với ít tham số, mô hình hóa biến động dài hạn tốt hơn.
 
 4. So sánh ARCH và GARCH
-Đặc điểm	ARCH(p)	GARCH(p,q)
+Đặc điểm	          ARCH(p)        	GARCH(p,q)
 Phương sai	Chỉ phụ thuộc nhiễu quá khứ	Phụ thuộc cả nhiễu và phương sai quá khứ
 Độ linh hoạt	Cần nhiều tham số nếu p lớn	Hiệu quả hơn với ít tham số
 Ứng dụng	Biến động ngắn hạn	Biến động phức tạp, dài hạn
